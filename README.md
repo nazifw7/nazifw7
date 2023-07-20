@@ -1,4 +1,3 @@
-[![MasterHead](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg)
 <h1 align="center">Hi 👋, I'm Nazif</h1>
 <h3 align="center">A freelance software developer in Turkiye</h3>
 
