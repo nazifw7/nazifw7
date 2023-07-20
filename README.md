@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevm.io%2Fcareers%2Finterview-programmer-life-161818&psig=AOvVaw3jgUfcTnf8LFg3aIiXZ2bz&ust=1689936673398000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCIicg-uOnYADFQAAAAAdAAAAABAE)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevm.io%2Fcareers%2Finterview-programmer-life-161818&psig=AOvVaw3jgUfcTnf8LFg3aIiXZ2bz&ust=1689936673398000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCIicg-uOnYADFQAAAAAdAAAAABAE](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg))
 <h1 align="center">Hi 👋, I'm Nazif</h1>
 <h3 align="center">A freelance software developer in Turkiye</h3>
 
