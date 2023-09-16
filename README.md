@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nazif</h1>
 <h3 align="center">A freelance software developer in Turkiye</h3>
 
-<p align="left"> <a href="https://twitter.com/flyxw7" target="blank"><img src="https://img.shields.io/twitter/follow/flyxw7?logo=twitter&style=for-the-badge" alt="flyxw7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nazifw7" target="blank"><img src="https://img.shields.io/twitter/follow/flyxw7?logo=twitter&style=for-the-badge" alt="flyxw7" /></a> </p>
 
 - 🔭 I’m currently working on **A Story Game (ChangeMind)**
 
-- 🌱 I’m currently learning **Google ADS**
-
-- 📫 How to reach me **messinazif10@gmail.com**
+- 🌱 I’m currently learning **PYTHON**
 
 - ⚡ Fun fact **I am not rich**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/flyxw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flyxw7" height="30" width="40" /></a>
+<a href="https://twitter.com/nazifw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flyxw7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/flyxw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flyxw7" height="30" width="40" /></a>
 <a href="https://discord.gg/flyx00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flyx00" height="30" width="40" /></a>
 </p>
